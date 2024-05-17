@@ -55,13 +55,19 @@ l'adresse MAC : 00:50:79:66:68:00
 
 #### Q.3.13
 
+oui il a eu une réponse
+![](https://github.com/Shanks69000/CheckPoint_2/blob/main/img_ex3/Capture%20d'%C3%A9cran%202024-05-17%20131505.png)
+
 source ip : 10.10.4.1 mac: 00:50:79:66:68:00
 destination : 10.10.4.2 mac : 00:50:79:66:68:03
+
+![](https://github.com/Shanks69000/CheckPoint_2/blob/main/img_ex3/Capture%20d'%C3%A9cran%202024-05-17%20131505.png)
 
 #### Q.3.14
 
 le protocole encapsulé est ARP : Address Resolution Protocol
 
+![](https://github.com/Shanks69000/CheckPoint_2/blob/main/img_ex3/Capture%20d'%C3%A9cran%202024-05-17%20131517.png)
 
 #### Q.3.15
 
@@ -75,8 +81,12 @@ l'adresse : 10.10.80.3 demarre cette communication
 
 le protocole est ICMP et son role est la gestion du trafic et la communication entre les hôtes et les routeurs sur Internet
 
+![](https://github.com/Shanks69000/CheckPoint_2/blob/main/img_ex3/Capture%20d'%C3%A9cran%202024-05-17%20131416.png)
+
 #### Q.3.18
 Non il n'a pas eu de réponse du destinataire
+
+![](https://github.com/Shanks69000/CheckPoint_2/blob/main/img_ex3/Capture%20d'%C3%A9cran%202024-05-17%20132504.png)
 
 #### Q.3.19
 il envoie un requete  au destinataire par le protocole ICMP et la destination est introuvable.
